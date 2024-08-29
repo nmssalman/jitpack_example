@@ -1,7 +1,7 @@
 jdk:
   - openjdk17
-before_install:
-  - ./scripts/prepareJitpackEnvironment.sh
+# before_install:
+#   - ./scripts/prepareJitpackEnvironment.sh
 
 install:
   - FILE="-Dfile=android-demo-release.aar"
