@@ -75,7 +75,7 @@ publishing {
 
 
 dependencies {
-
+    implementation("androidx.viewpager:viewpager:1.0.0")
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
     testImplementation(libs.junit)

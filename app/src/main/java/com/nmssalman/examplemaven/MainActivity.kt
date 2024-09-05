@@ -12,11 +12,13 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.nmssalman.android_demo.HelloWorld
+import com.nmssalman.android_demo.PageIndicatorView
 import com.nmssalman.examplemaven.ui.theme.ExampleMavenTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         HelloWorld.printLog("MavenAndroidDemo", "HELLO WORLD")
+
     }
 }
