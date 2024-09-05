@@ -1,4 +1,4 @@
-package com.nmssalman.bubbleshowcase
+package com.nmssalman.android_demo
 
 
 import android.app.Activity
@@ -10,11 +10,11 @@ import android.graphics.RectF
 import android.graphics.drawable.Drawable
 import android.os.Build
 import android.os.Handler
-import android.support.v4.content.ContextCompat
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.RelativeLayout
+import androidx.core.content.ContextCompat
 import java.lang.ref.WeakReference
 
 
@@ -22,7 +22,7 @@ import java.lang.ref.WeakReference
  * Created by jcampos on 04/09/2018.
  */
 
-class BubbleShowCase(builder: BubbleShowCaseBuilder){
+class BubbleShowCase(builder: BubbleShowCaseBuilder) {
     private val SHARED_PREFS_NAME = "BubbleShowCasePrefs"
 
     private val FOREGROUND_LAYOUT_ID = 731

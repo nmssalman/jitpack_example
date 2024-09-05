@@ -1,4 +1,4 @@
-package com.nmssalman.bubbleshowcase
+package com.nmssalman.android_demo
 
 import android.content.Context
 import android.graphics.Canvas
@@ -6,13 +6,13 @@ import android.graphics.Paint
 import android.graphics.Path
 import android.graphics.RectF
 import android.graphics.drawable.Drawable
-import android.support.constraint.ConstraintLayout
-import android.support.v4.content.ContextCompat
 import android.util.AttributeSet
 import android.util.TypedValue
 import android.view.View
 import android.widget.ImageView
 import android.widget.TextView
+import androidx.constraintlayout.widget.ConstraintLayout
+import androidx.core.content.ContextCompat
 import java.lang.ref.WeakReference
 
 import java.util.ArrayList

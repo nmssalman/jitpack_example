@@ -1,4 +1,4 @@
-package com.nmssalman.bubbleshowcase
+package com.nmssalman.android_demo
 
 import android.app.Activity
 import android.graphics.drawable.Drawable

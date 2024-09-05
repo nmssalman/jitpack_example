@@ -1,4 +1,4 @@
-package com.nmssalman.bubbleshowcase
+package com.nmssalman.android_demo
 
 import android.animation.ObjectAnimator
 import android.animation.PropertyValuesHolder

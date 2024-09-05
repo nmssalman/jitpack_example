@@ -1,4 +1,4 @@
-package com.nmssalman.bubbleshowcase
+package com.nmssalman.android_demo
 
 /**
  * Created by jcampos on 04/09/2018.
