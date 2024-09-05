@@ -64,7 +64,7 @@ publishing {
         {
             groupId = "com.github.nmssalman"
             artifactId = "jitpack_example"
-            version = "4.0"
+            version = "5.0"
             pom {
                 description = "DESCRIPTION"
             }
