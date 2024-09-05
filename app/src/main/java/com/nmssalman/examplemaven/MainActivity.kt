@@ -18,7 +18,9 @@ import com.nmssalman.examplemaven.ui.theme.ExampleMavenTheme
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
         HelloWorld.printLog("MavenAndroidDemo", "HELLO WORLD")
+
 
     }
 }
